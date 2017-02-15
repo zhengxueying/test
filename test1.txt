@@ -1,4 +1,0 @@
-Hello ,this is a test file to practice to use git.
-Hope i can got it!
-
-Try to understand how to view changes.
